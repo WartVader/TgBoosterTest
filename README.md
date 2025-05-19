@@ -9,4 +9,6 @@ npm run dev
 
 Чтобы запустить scheduler:
 
+```
 ./vendor/bin/sail exec laravel.test php artisan schedule:work
+```
